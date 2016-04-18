@@ -31,6 +31,9 @@ public class Screen {
 		 			wa.mass=0;
 		 			wa.l.setText("Score: " + wa.score );
 		 			wa.anima(0,0);
+		 			x = 0;
+		 			y = 0;
+		 			b.setFocusable(false);
 		 			
 		 			
 		 		}
